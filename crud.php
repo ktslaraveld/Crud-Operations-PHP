@@ -7,7 +7,6 @@ require("connection.php"); //File Required For Connection
 class Crud
 
 {
-
   public function addCountry()
 
   {
